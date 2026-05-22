@@ -2,8 +2,6 @@
 nike.com
 
 
-Nike
-
 
 Logo
 
@@ -15,7 +13,8 @@ Slogan
 # JUST DO IT. #
 
 
-[Nike링크]()
+[Nike링크](https://soominikk.github.io/nike/)
+
 
 
 

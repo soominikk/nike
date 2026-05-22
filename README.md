@@ -3,19 +3,22 @@ nike.com
 
 
 
-Logo
+# 👟 나이키 온라인 사이트 배포 시험
 
-<img width="735" height="309" alt="logo" src="https://github.com/user-attachments/assets/5041a7dc-a46e-49ad-aaed-1627fa87f47b" />
+나이키 메인 페이지를 마크업하고 깃허브 페이지로 배포한 결과물입니다.
 
+👉 **[여기를 눌러서 배포된 사이트 확인하기]()**
 
+## 📌 프로젝트 정보
+* **제출자**: [본인 이름 또는 학번]
+* **시험 내용**: 나이키 사이트 클론 코딩 및 GitHub 배포
 
-Slogan
+## 🛠 사용 기술
+* HTML5, CSS3, JavaScript
 
-# JUST DO IT. #
-
-
-
-[Nike](https://soominikk.github.io/nike/)
+## 💻 구현한 내용
+* 나이키 메인 페이지 레이아웃 구현
+* 화면 크기에 맞춰 변하는 반응형 웹 적용
 
 
 

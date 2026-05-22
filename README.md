@@ -7,7 +7,7 @@ nike.com
 
 나이키 메인 페이지를 마크업하고 깃허브 페이지로 배포한 결과물입니다.
 
- **[여기를 눌러서 배포된 사이트 확인하기](https://soominikk.github.io/nike/)**
+ **[배포된 사이트](https://soominikk.github.io/nike/)**
 
 ##  프로젝트 정보
 * **제출자**: [soominikk]

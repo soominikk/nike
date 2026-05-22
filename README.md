@@ -10,10 +10,12 @@ Logo
 
 
 Slogan
+
 # JUST DO IT. #
 
 
-[Nike링크](https://soominikk.github.io/nike/)
+
+[Nike](https://soominikk.github.io/nike/)
 
 
 
